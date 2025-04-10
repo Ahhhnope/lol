@@ -43,10 +43,8 @@ public class GameLeverOne extends JComponent {
     int a = 10;
     int b;
     int c,d,e;
-    int aientinaegfeaingf = 10;
 
-
-    int skibiditoilet = 10;
+    int abc = 100;
 
     int qwe = 123;
     private Graphics2D g2;
