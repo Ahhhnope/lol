@@ -41,7 +41,9 @@ import javax.swing.SwingUtilities;
 
 public class GameLeverOne extends JComponent {
     int a = 10;
-
+    int b;
+    int c,d,e;
+    int aientinaegfeaingf = 10;
     private Graphics2D g2;
     private BufferedImage offScreenImage;
     private TheEndGame endGamePanel;
