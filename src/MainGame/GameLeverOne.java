@@ -44,6 +44,9 @@ public class GameLeverOne extends JComponent {
     int b;
     int c,d,e;
     int aientinaegfeaingf = 10;
+
+
+    int skibiditoilet = 10;
     private Graphics2D g2;
     private BufferedImage offScreenImage;
     private TheEndGame endGamePanel;
